@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易總義
-#+DATE: 2015-09-23 09:34:36
-#+PROPERTY: JUAN 15
+#+DATE: 2015-08-24 21:55:24.128842
+#+PROPERTY: ID KR1a0048
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR1a0048_WYG_015-1a>¶
 欽定四庫全書¶
 　周易總義卷十五¶
@@ -434,4 +436,3 @@
 　　終莫之聞其㓙可知也使自覺知則不至于極而¶
 　　號咷矣¶
 　周易總義卷十五¶
-
